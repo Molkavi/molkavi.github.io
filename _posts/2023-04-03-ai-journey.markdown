@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ai Journey!"
-date:   2023-04-03 13:37:00 -0500
+date:   2023-04-02 12:00:00 -0500
 categories: ai update
 published: true
 ---
